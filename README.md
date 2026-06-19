@@ -4,6 +4,11 @@ An AI-powered banking recommendation system that predicts the probability of a c
 
 Built as a submission for **Track C – System Builder** under the **AuditMind: AI-Driven Cross-Sell Recommendation System** screening project.
 
+### 🌐 Live Deployment
+The FastAPI backend is fully containerized using Docker and deployed on Hugging Face Spaces to ensure 100% uptime with zero spin-down delays.
+
+* **Live API Docs (Swagger UI):** [https://mohitpal2005-bankmind-api.hf.space/docs](https://mohitpal2005-bankmind-api.hf.space/docs)
+
 ---
 
 # 🚀 Features
